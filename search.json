@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "quarto-live_test",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#exercise",
+    "href": "index.html#exercise",
+    "title": "quarto-live_test",
+    "section": "Exercise",
+    "text": "Exercise\n\nQuestion\n\n\n\n\n\n\n\n\n\n\n\n\nUse the distinct() function from the {dplyr} package.\n\n\nstarwars |&gt; distinct(hair_color)\nstarwars |&gt; distinct(hair_color)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
